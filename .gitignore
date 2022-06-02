@@ -85,4 +85,4 @@ packages/gatsby-theme-algolia
 .bit/
 
 #vscode
-# .vscode/
+.vscode/
